@@ -5,3 +5,7 @@ width: auto;*/
 background-repeat: no-repeat;
 background-size: 100%;
 }
+
+h1:before {
+  content: ' \2055';
+}
